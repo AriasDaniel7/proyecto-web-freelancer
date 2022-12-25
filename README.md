@@ -1,6 +1,6 @@
 # Proyecto Freelancer
 ### Introducción:
-Proyecto creado a partir de un curso de Udemy llamado: [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL.](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/ "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL")
+Proyecto creado a partir del curso de Udemy: [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL.](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/ "Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL")
 ### Pagina:
 - La pagina esta enlazada con: [Netlify](https://www.netlify.com/ "Netlify")
 - Pagina: [Click aqui!](https://sitio-web-freelancer1.netlify.app/ "Click aqui!")
